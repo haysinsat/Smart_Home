@@ -22,12 +22,7 @@ namespace Smart_Home
             InitializeComponent();
             timer1.Interval = 1000;
             timer1.Start();
-
-            richTextBox1.Text = "Температура Бойлер";  richTextBox9.Text = "  C";
-            richTextBox2.Text = "Вода на бак (Л/Год)"; richTextBox10.Text = "Л/Г";
-            richTextBox3.Text = "Вода на бак (Л/Доба)"; richTextBox11.Text = "Л/Д";
-            richTextBox4.Text = "Вода на бак (Л)";  richTextBox12.Text = "  Л";
-
+            
             // Коментар
         }
 
