@@ -27,6 +27,8 @@ namespace Smart_Home
             richTextBox2.Text = "Вода на бак (Л/Год)"; richTextBox10.Text = "Л/Г";
             richTextBox3.Text = "Вода на бак (Л/Доба)"; richTextBox11.Text = "Л/Д";
             richTextBox4.Text = "Вода на бак (Л)";  richTextBox12.Text = "  Л";
+
+            // Коментар
         }
 
         private async void timer1_Tick(object sender, EventArgs e)
