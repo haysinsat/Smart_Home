@@ -23,6 +23,7 @@ namespace Smart_Home
             timer1.Interval = 1000;
             timer1.Start();
             
+            // from another computer
             // Коментар
         }
 
